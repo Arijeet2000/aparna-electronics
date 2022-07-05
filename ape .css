@@ -1,0 +1,41 @@
+h1,p,h2{
+    line-height: 0;
+}
+body{
+    box-sizing: border-box;
+    padding: 40px;
+}
+.p2{
+    line-height: 1;
+}
+.row1{
+    height: 80px;
+}
+.row2{
+    height: 80px;
+}
+.row3{
+    height: 100px;
+}
+.row4{
+    height: 50px;
+}
+.row5{
+    height: 80px;
+}
+.row6{
+    height: 130px;
+}
+#date{
+    width: 75%;
+}
+#date2{width: 40%;
+}
+table,th,td{
+    border: 2px solid black;
+}
+#brand{
+    width: 65%;
+    height: 60%;
+    margin-top: 2%;
+}
